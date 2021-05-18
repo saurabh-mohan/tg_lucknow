@@ -40,6 +40,7 @@ while True:
             url = f"https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id={district['district_id']}&date={date_from}"
             response = requests.get(url, headers=headers, data=payload)
             dump_data = response.json()
+            print(dump_data)
 
         if(dump_data != district['prev_dump_data']):
                 district['prev_dump_data'] = dump_data
