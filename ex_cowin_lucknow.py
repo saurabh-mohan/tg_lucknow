@@ -19,7 +19,7 @@ districts = [
 
 # Define Global Variables
 payload={}
-headers = {"User-Agent":"Chrome/90.0.4430.93"}
+headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"}
 max_whatsapp_char_limit=1500
 max_tg_char_limit=4000
 timeout_multiplier = 1
