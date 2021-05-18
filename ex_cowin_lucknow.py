@@ -1,3 +1,4 @@
+print("starting Execution...")
 import datetime
 from time import sleep
 import requests
@@ -117,5 +118,5 @@ while True:
 
     except Exception as e:
         print(str(e))
-        print('Sleeping for 5 Minutes')
-        sleep(360)
+        print('Sleeping for 1 Minutes')
+        sleep(60)
