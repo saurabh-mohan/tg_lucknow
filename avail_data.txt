@@ -1,0 +1,19 @@
+
+ For age group : 18 plus
+ Total available capacity in Lucknow = 2
+
+
+ Total slots --> 1
+ Center Name --> T.B Hospital Lucknow 18 To 44
+ Center Address --> T.B Combined Hospital Thakurganj Lko
+ Center Pincode --> 226003
+ Vaccine --> COVAXIN
+      18-05-2021 -> 1
+
+
+ Total slots --> 1
+ Center Name --> Gudamba CHC Lucknow 18 To 44
+ Center Address --> Gudamba Lucknow Uttar Pradesh
+ Center Pincode --> 226004
+ Vaccine --> COVISHIELD
+      19-05-2021 -> 1

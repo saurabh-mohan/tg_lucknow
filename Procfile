@@ -1,0 +1,1 @@
+worker: python ex_cowin_lucknow.py
