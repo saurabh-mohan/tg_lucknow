@@ -1,0 +1,27 @@
+
+ For age group : 18 plus
+ Total available capacity in Lucknow = 4
+
+
+ Total slots --> 1
+ Center Name --> RSM Combined Hospital 18 To 44
+ Center Address --> SADHAMAU BKT LUCKNOW
+ Center Pincode --> 226201
+ Vaccine --> COVISHIELD
+      18-05-2021 -> 1
+
+
+ Total slots --> 2
+ Center Name --> ALSC Base Hospital LKO 18 To44
+ Center Address --> Only For Defence Personnels Lal Bahadur Shastri Marg Neil Lines Cantonment Lucknow Uttar Pradesh
+ Center Pincode --> 226002
+ Vaccine --> COVISHIELD
+      21-05-2021 -> 2
+
+
+ Total slots --> 1
+ Center Name --> UPHC Sewa Sadan Lko 18 To 44
+ Center Address --> Urban Family Welfare Centre (UFWC) Napiyer Colony Tehseenganj Crossing Sewa Sadan Lucknow-226003
+ Center Pincode --> 226003
+ Vaccine --> COVISHIELD
+      21-05-2021 -> 1
