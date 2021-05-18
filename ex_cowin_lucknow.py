@@ -1,5 +1,4 @@
 import datetime
-from os import truncate
 from time import sleep
 import requests
 from os import environ
